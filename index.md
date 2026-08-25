@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-I'm a Physical Oceanographer who is interested in flow--topography and air-sea interactions. One of
+I'm a Physical Oceanographer who is interested in flow--topography and air--sea interactions. One of
 my main interests is to understand how observed data can be reproduced using high-resolution models.
 
 I'm currently finishing my master's degree in Physical Oceanography at the University of Sao Paulo while
