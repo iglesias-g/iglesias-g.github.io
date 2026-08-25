@@ -14,8 +14,9 @@ Atmospheric Boundary Layer. You can find a few pictures below.
 Fieldwork in the Amazon ship of Brazilian Navy, whose goal was to measure
 the AX97 of the Monitoramento da Variabilidade Regional project [MOVAR](https://www.marinha.mil.br/chm/dados-do-goos-brasil/movar) site.
 
-<img src="/assets/images/movar1.jpg" width="500">
-
+<div style="text-align: center;">
+    <img src="/assets/images/movar1.jpg" width="400">
+</div>
 
 ![](/assets/images/movar2.jpg)
 
