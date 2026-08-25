@@ -1,5 +1,3 @@
-
-
 ---
 title: Personal projects
 header:
