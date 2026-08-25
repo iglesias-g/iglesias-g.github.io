@@ -7,15 +7,12 @@ classes: wide
 author_profile: true
 ---
 
-I'm a geophysical fluid dynamicist who is interested in turbulent phenomena. In particular my main
-foci are small- and submeso-scale turbulence, which I investigate with a numerical approach (usually
-large-eddy simulations). I'm also a big believer in community-driven open-source software as a way
-to improve the reproducibility of results in science.
 
-I'm currently sharing my time between the University of Maryland's Atmospheric and Oceanic Science
-department (in [Dr. Jacob Wenegrat](https://wenegrat.github.io/)'s group), and [atdepth
-MRV](https://www.atdepth.org/).
+I'm a Physical Oceanographer who is intereset in flow--topography and air-sea interactions. One of
+my main interests is to undersantd how observed data can be reproduced using high resolution models.
 
+I'm currently finishing my masters degree in Physical Oceanography at University of Sao Paulo while
+I'm also looking abroad for PhD opportunities.
 
 For an in-depth list of talks, awards, publications, skills, etc., please check my [curriculum
 vitae](https://github.com/tomchor/tomchor.github.io/raw/master/assets/pdf/phd-tomas-chor3.pdf).
