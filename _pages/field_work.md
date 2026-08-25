@@ -11,10 +11,11 @@ Atmospheric Boundary Layer. You can find a few pictures below.
 
 ### Espirito Santo - BR (February 2023)
 
-Fieldwork in the Amazon ship of Brazilia Navy, whose goal was to measure
+Fieldwork in the Amazon ship of Brazilian Navy, whose goal was to measure
 the AX97 of the Monitoramento da Variabilidade Regional project [MOVAR](https://www.marinha.mil.br/chm/dados-do-goos-brasil/movar) site.
 
-![](/assets/images/movar1.jpg)
+<img src="/assets/images/movar1.jpg" width="500">
+
 
 ![](/assets/images/movar2.jpg)
 
