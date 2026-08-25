@@ -1,3 +1,5 @@
+<!--
+
 ---
 title: Personal projects
 header:
@@ -54,5 +56,6 @@ github that you can use and contribute to.
 My other side projects can also be accessed using my [Github page](https://github.com/tomchor). Most
 are for personal use but they are all open-source and anyone can use them if they wish to.
 
+-->
 
 
