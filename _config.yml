@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Tomás Chor"
+title                    : "Gabriel Iglesias"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : 
-description              : "Investigations of oceanic and atmospheric turbulence"
-url                      : "https://tomchor.github.io"
+description              : "Investigations of Flow-Topography interactions"
+url                      : "https://iglesias-g.github.io"
 baseurl                  : # Subpath, if there is one.
-repository               : "tomchor/tomchor.github.io"
+repository               : "iglesias-g/iglesias-g.github.io "
 teaser                   : #
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
@@ -112,27 +112,27 @@ analytics:
 
 # Author information
 author:
-  name             : "Tomás L. Chor"
-  avatar           : "/assets/images/TChor-02p_UCLA_cropped.jpg"
-  bio              : "Geophysical fluid dynamicist"
-  location         : "Los Angeles | São Paulo"
+  name             : "Gabriel A. Iglesias G."
+  avatar           : "/assets/images/gab_photo.jpg"
+  bio              : "Physical Oceanographer"
+  location         : "São Paulo | Rio de Janeiro"
   email            : #"contact@tomaschor.xyz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@tomaschor.xyz"
+      url: "mailto:gabriel_iglesias@usp.br"
     - label: "Google Scholar" # This odd username is somehow brewed up by Google.
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=0uQC6kkAAAAJ&hl=en"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tomchor"
+      url: "https://github.com/iglesias-g"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Tomas-Chor"
+      url: "https://www.researchgate.net/profile/Gabriel-Gomes-62?ev=hdr_xprf"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-0854-3803"
+      url: "https://orcid.org/0000-0002-4759-5692"
       #    - label: "Website"
       #      icon: "fas fa-fw fa-link"
       #      url: "https://your-website.com"
