@@ -21,6 +21,6 @@ vitae](https://github.com/iglesias-g/iglesias-g.github.io/raw/master/assets/pdf/
 ## Contact
 
 I'm always looking for new projects to engage in. If you are interested in any part of my work,
-do not exitate in caontact me.
+do not hesitate in caontact me.
 
 - Email: gabriel_iglesias@usp.br
