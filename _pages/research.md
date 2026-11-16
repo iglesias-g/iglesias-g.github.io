@@ -39,7 +39,7 @@ A visual timeline of my journey so far, highlighting the key milestones and expe
 
 
 
-**MSc - Physical Oceanography (~2026) -** *University of São Paulo*
+**MSc - Physical Oceanography (~2026) -** *Oceanographic Institute - University of São Paulo*
 
 The central hypothesis of the research developed during my MSc degree was to evaluate the role 
 of flow--topography interactions in the destabilization process of a current that consistently 
@@ -89,7 +89,7 @@ submesoscale coherent vortices that can be advected to the ocean interior, trapp
 </div>
 
 
-**BSc - Oceanography (~2023) -** *Rio de Janeiro State University*
+**BSc - Oceanography (~2023) -** *Oceanography Faculty - Rio de Janeiro State University*
 
 It is a simple project that I developed over the last six months of my undergraduate degree, back in 2023,
 in order to meet the requirements to earn my BSc degree. My goal was to characterize the deformation
@@ -128,7 +128,7 @@ represent the mixed layer depth, and black isolines represent the mixed layer de
 
 
 
-**Internship - Meteorology department (~2021) -** *Rio de Janeiro Federal University*
+**Internship - Laboratory of Dynamic Meteorology (~2021) -** *Rio de Janeiro Federal University*
 
 During my BSc degree, I had the opportunity to complement my studies with an internship with a meteorology group.
 This experience, which I carried out over 2 years, was a great opportunity to engage for the first time with 
