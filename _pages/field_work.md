@@ -9,7 +9,7 @@ header:
 While I was an undergraduate student, I did some really rewarding fieldwork
 You can find a few pictures below.
 
-### Espírito Santo - BR (February 2023)
+### Espírito Santo - Brazil (February 2023)
 
 Fieldwork on the Amazonas ship of the Brazilian Navy, whose goal was to measure
 the AX97 transect of the Monitoramento da Variabilidade Regional project [MOVAR](https://www.marinha.mil.br/chm/dados-do-goos-brasil/movar) site.
