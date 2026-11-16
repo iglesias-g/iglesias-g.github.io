@@ -18,8 +18,5 @@ radius of the mixed layer in order to understand the length of the motions restr
 I also characterized the seasonality of the mixed layer depth along the Brazilian margin.
 
 <div style="text-align: center;">
-    <iframe src="/assets/images/Imagem_TCC.pdf"
-            width="600"
-            height="500">
-    </iframe>
+    <img src="/assets/images/Imagem_TCC.png" width="400">
 </div>
