@@ -7,6 +7,7 @@ header:
 
 
 While I was an undergraduate student, I did some really rewarding fieldwork
+
 You can find a few pictures below.
 
 ### Espírito Santo - Brazil (February 2023)
