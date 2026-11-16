@@ -5,7 +5,8 @@ header:
 permalink: /research/
 ---
 
-Here you are able to see every step of my career in one image, with a brief description.
+**Every step of my career in one image**
+A visual timeline of my journey so far, highlighting the key milestones and experiences that have shaped my career.
 
 
 **Research Assistant -** *National Institute for Space Research - INPE (Brazil)*
