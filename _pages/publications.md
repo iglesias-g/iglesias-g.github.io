@@ -6,4 +6,5 @@ permalink: /publications/
 ---
 
 
-In progress...
+- **2026 — In preparation.** Sustained topographic-driven instabilities along the Brazilian continental slope.
+
