@@ -11,6 +11,7 @@ permalink: /research/
 
 A visual timeline of my journey so far, highlighting the key milestones and experiences that have shaped my career.
 
+<div style="height: 50px;"></div>
 
 **Research Assistant (Present) -** *National Institute for Space Research - INPE (Brazil)*
 
