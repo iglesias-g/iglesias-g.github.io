@@ -18,18 +18,39 @@ Here you are able to see every step of my career in one image, with a brief desc
 It is a simple project that I developed over the last six months of my undergraduate degree, back in 2023,
 in order to meet the requirements to earn my BSc degree. My goal was to characterize the deformation
 radius of the mixed layer in order to understand the length of the motions restricted within the mixed layer;
-I also characterized the seasonality of the mixed layer depth along the Brazilian margin.
+I also characterized the seasonality of the mixed layer depth along the Brazilian margin. In the image, colors 
+represent the mixed layer depth, and black isolines represent the mixed layer deformation radius.
 
 <div style="text-align: center;">
     <img src="/assets/images/Imagem_TCC.jpg" width="400">
 </div>
 
 
-<div style="text-align: center; margin: 30px 0;">
-    <span style="font-size: 60px; color: #555;">
-        ↑
-    </span>
+
+
+<style>
+.arrow {
+    font-size: 75px;
+    color: #555;
+    text-align: center;
+    animation: move 1.5s infinite;
+}
+
+@keyframes move {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-12px);
+    }
+}
+</style>
+
+<div class="arrow">
+    &#8593;
 </div>
+
+
 
 **Internship - Meteorology department -** *Rio de Janeiro Federal University*
 
@@ -38,3 +59,7 @@ This experience, which I carried out over 2 years, was a great opportunity to en
 academia officially while I was earning a scholarship from the same group to compare different reanalyses 
 regarding wave and wind parameters. My role was to compare different reanalysis products against offshore
 buoy data and discover which one was better for the region of interest.
+
+<div style="text-align: center;">
+    <img src="/assets/images/Imagem_Internship.jpeg" width="400">
+</div>
