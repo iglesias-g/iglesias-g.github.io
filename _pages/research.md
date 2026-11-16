@@ -42,6 +42,8 @@ A visual timeline of my journey so far, highlighting the key milestones and expe
 
 **MSc - Physical Oceanography (~2026) -** *Oceanographic Institute - University of São Paulo*
 
+<div style="text-align: justify;">
+
 The central hypothesis of the research developed during my MSc degree was to evaluate the role 
 of flow--topography interactions in the destabilization process of a current that consistently 
 shears against the continental slope on its pathway towards the Equator, the Intermediate Western
@@ -52,6 +54,7 @@ and the main type of instabilities that arise are indeed a result of current-slo
 Especially within a box-shaped canyon, instabilities seem to be more persistent and on some occasions give birth to 
 submesoscale coherent vortices that can be advected to the ocean interior, trapping properties of its formation site.
 
+</div>
 
 <div style="text-align: center;">
     <video
