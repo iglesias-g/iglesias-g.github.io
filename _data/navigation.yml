@@ -2,8 +2,8 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Personal projects"
-    url: /personal/
+  # - title: "Personal projects"
+  #   url: /personal/
   - title: "Publications"
     url: /publications/
   - title: "Field work"
