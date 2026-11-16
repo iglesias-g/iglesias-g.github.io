@@ -5,7 +5,7 @@ header:
 permalink: /research/
 ---
 
-**Research Assistant -** *INPE*
+**Research Assistant -** *National Institute for Space Research - INPE (Brazil)*
 
 
 **MSc - Physical Oceanography -** *University of São Paulo*
@@ -20,3 +20,18 @@ I also characterized the seasonality of the mixed layer depth along the Brazilia
 <div style="text-align: center;">
     <img src="/assets/images/Imagem_TCC.jpg" width="400">
 </div>
+
+
+<div style="text-align: center; margin: 30px 0;">
+    <span style="font-size: 60px; color: #555;">
+        ↑
+    </span>
+</div>
+
+**Internship - Meteorology department -** *Rio de Janeiro Federal University*
+
+During my BSc degree, I had the opportunity to complement my studies with an internship with a meteorology group.
+This experience, which I carried out over 2 years, was a great opportunity to engage for the first time with 
+academia officially while I was earning a scholarship from the same group to compare different reanalyses 
+regarding wave and wind parameters. My role was to compare different reanalysis products against offshore
+buoy data and discover which one was better for the region of interest.
