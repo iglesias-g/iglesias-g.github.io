@@ -1,5 +1,5 @@
 ---
-title: Field work
+title: Fieldwork
 permalink: /field_work/
 header:
   image: /assets/images/vortart/banner_vorticity.png
@@ -9,9 +9,9 @@ header:
 While I was an undergraduate student, I did some really rewarding fieldwork
 You can find a few pictures below.
 
-### Espirito Santo - BR (February 2023)
+### Espírito Santo - BR (February 2023)
 
-Fieldwork in the Amazonas ship of the Brazilian Navy, whose goal was to measure
+Fieldwork on the Amazonas ship of the Brazilian Navy, whose goal was to measure
 the AX97 transect of the Monitoramento da Variabilidade Regional project [MOVAR](https://www.marinha.mil.br/chm/dados-do-goos-brasil/movar) site.
 MOVAR is one of the programs of the Global Ocean Observing System (GOOS-Brazil)
 and has been conducting the longest continuous monitoring of the Brazil Current (BC) since 2004.
