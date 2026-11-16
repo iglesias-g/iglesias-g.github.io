@@ -11,7 +11,7 @@ A visual timeline of my journey so far, highlighting the key milestones and expe
 
 <div style="height: 60px;"></div>
 
-**Research Assistant (Present) -** *National Institute for Space Research - INPE (Brazil)*
+**Research Assistant (Present) -** *National Institute for Space Research - INPE (São Paulo - Brazil)*
 
 *Interannual Variability of the Antarctic Circumpolar Current Fronts in the Drake Passage*
 
