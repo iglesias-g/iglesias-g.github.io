@@ -31,7 +31,7 @@ represent the mixed layer depth, and black isolines represent the mixed layer de
 
 <style>
 .arrow {
-    font-size: 75px;
+    font-size: 95px;
     color: #555;
     text-align: center;
     animation: move 1.5s infinite;
@@ -62,11 +62,5 @@ regarding wave and wind parameters. My role was to compare different reanalysis 
 buoy data and discover which one was better for the region of interest.
 
 <div style="text-align: center;">
-    <img src="/assets/images/Imagem_Internship.JPEG"
-         style="
-             width: 500px;
-             height: 300px;
-             object-fit: cover;
-             object-position: center;
-         ">
+    <img src="/assets/images/Imagem_Internship.png" width="400">
 </div>
