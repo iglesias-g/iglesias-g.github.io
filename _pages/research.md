@@ -1,9 +1,12 @@
 ---
-title: My research in one image
+title: Research
 header:
   image: /assets/images/vortart/banner_vorticity.png
 permalink: /research/
 ---
+
+Here you are able to see every step of my career in one image, with a brief description.
+
 
 **Research Assistant -** *National Institute for Space Research - INPE (Brazil)*
 
