@@ -58,7 +58,7 @@ submesoscale coherent vortices that can be advected to the ocean interior, trapp
         loop
         muted
         playsinline
-        style="width: 100%; max-width: 400px; height: auto;">
+        style="width: 100%; max-width: 300px; height: auto;">
 
         <source src="/assets/videos/AAIW_core_mean_Ro_film_20180510_20180705.mp4" type="video/mp4">
 
@@ -98,7 +98,7 @@ I also characterized the seasonality of the mixed layer depth along the Brazilia
 represent the mixed layer depth, and black isolines represent the mixed layer deformation radius.
 
 <div style="text-align: center;">
-    <img src="/assets/images/Imagem_TCC.jpg" width="400">
+    <img src="/assets/images/Imagem_TCC.jpg" width="550">
 </div>
 
 
