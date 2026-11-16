@@ -7,8 +7,6 @@ permalink: /research/
 
 **Every step of my career in one image**
 
-<div style="text-align: justify;">
-
 A visual timeline of my journey so far, highlighting the key milestones and experiences that have shaped my career.
 
 <div style="height: 50px;"></div>
@@ -143,4 +141,3 @@ buoy data and discover which one was better for the region of interest.
     <img src="/assets/images/Imagem_Internship.png" width="400">
 </div>
 
-</div>
