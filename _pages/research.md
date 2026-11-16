@@ -52,6 +52,20 @@ submesoscale coherent vortices that can be advected to the ocean interior, trapp
 its formation site.
 
 
+<div style="text-align: center;">
+    <video
+        autoplay
+        loop
+        muted
+        playsinline
+        style="width: 100%; max-width: 800px; height: auto;">
+
+        <source src="/assets/videos/AAIW_core_mean_Ro_film_20180510_20180705.mp4" type="video/mp4">
+
+    </video>
+</div>
+
+
 <style>
 .arrow {
     font-size: 95px;
