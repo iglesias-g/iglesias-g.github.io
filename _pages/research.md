@@ -9,7 +9,7 @@ permalink: /research/
 
 A visual timeline of my journey so far, highlighting the key milestones and experiences that have shaped my career.
 
-<div style="height: 50px;"></div>
+<div style="height: 60px;"></div>
 
 **Research Assistant (Present) -** *National Institute for Space Research - INPE (Brazil)*
 
@@ -95,11 +95,14 @@ submesoscale coherent vortices that can be advected to the ocean interior, trapp
 
 **BSc - Oceanography (~2023) -** *Oceanography Faculty - Rio de Janeiro State University*
 
+<div style="text-align: justify;">
+
 It is a simple project that I developed over the last six months of my undergraduate degree, back in 2023,
 in order to meet the requirements to earn my BSc degree. My goal was to characterize the deformation
 radius of the mixed layer in order to understand the length of the motions restricted within the mixed layer;
 I also characterized the seasonality of the mixed layer depth along the Brazilian margin. In the image, colors 
 represent the mixed layer depth, and black isolines represent the mixed layer deformation radius.
+</div>
 
 <div style="text-align: center;">
     <img src="/assets/images/Imagem_TCC.jpg" width="550">
@@ -134,11 +137,14 @@ represent the mixed layer depth, and black isolines represent the mixed layer de
 
 **Internship - Laboratory of Dynamic Meteorology (~2021) -** *Rio de Janeiro Federal University*
 
+<div style="text-align: justify;">
+
 During my BSc degree, I had the opportunity to complement my studies with an internship with a meteorology group.
 This experience, which I carried out over 2 years, was a great opportunity to engage for the first time with 
 academia officially while I was earning a scholarship from the same group to compare different reanalyses 
 regarding wave and wind parameters. My role was to compare different reanalysis products against offshore
 buoy data and discover which one was better for the region of interest.
+</div>
 
 <div style="text-align: center;">
     <img src="/assets/images/Imagem_Internship.png" width="400">
