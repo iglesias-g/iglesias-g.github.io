@@ -9,12 +9,67 @@ permalink: /research/
 A visual timeline of my journey so far, highlighting the key milestones and experiences that have shaped my career.
 
 
-**Research Assistant -** *National Institute for Space Research - INPE (Brazil)*
+**Research Assistant (Present) -** *National Institute for Space Research - INPE (Brazil)*
 
 
-**MSc - Physical Oceanography -** *University of São Paulo*
 
-**BSc - Oceanography -** *Rio de Janeiro State University*
+<style>
+.arrow {
+    font-size: 95px;
+    color: #555;
+    text-align: center;
+    animation: move 1.5s infinite;
+}
+
+@keyframes move {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-12px);
+    }
+}
+</style>
+
+<div class="arrow">
+    &#8593;
+</div>
+
+
+
+
+**MSc - Physical Oceanography (~2026) -** *University of São Paulo*
+
+The central hypothesis of the research developed during my MSc degree was to evaluate
+the role of flow--topography interactions in the destabilization process of a current that
+consistently shears against its pathway towards the Equator.
+
+
+
+<style>
+.arrow {
+    font-size: 95px;
+    color: #555;
+    text-align: center;
+    animation: move 1.5s infinite;
+}
+
+@keyframes move {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-12px);
+    }
+}
+</style>
+
+<div class="arrow">
+    &#8593;
+</div>
+
+
+**BSc - Oceanography (~2023) -** *Rio de Janeiro State University*
 
 It is a simple project that I developed over the last six months of my undergraduate degree, back in 2023,
 in order to meet the requirements to earn my BSc degree. My goal was to characterize the deformation
@@ -53,7 +108,7 @@ represent the mixed layer depth, and black isolines represent the mixed layer de
 
 
 
-**Internship - Meteorology department -** *Rio de Janeiro Federal University*
+**Internship - Meteorology department (~2021) -** *Rio de Janeiro Federal University*
 
 During my BSc degree, I had the opportunity to complement my studies with an internship with a meteorology group.
 This experience, which I carried out over 2 years, was a great opportunity to engage for the first time with 
