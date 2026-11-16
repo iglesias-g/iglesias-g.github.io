@@ -17,6 +17,9 @@ in order to meet the requirements to earn my BSc degree. My goal was to map/char
 radius of the mixed layer in order to understand the length of the motions restricted within the mixed layer;
 I also characterized the seasonality of the mixed layer depth along the Brazilian margin.
 
-< <div style="text-align: center;">
-    <img src="/assets/images/Imagem_TCC.pdf" width="400">
-</div> -->
+<div style="text-align: center;">
+    <iframe src="/assets/images/Imagem_TCC.pdf"
+            width="600"
+            height="500">
+    </iframe>
+</div>
