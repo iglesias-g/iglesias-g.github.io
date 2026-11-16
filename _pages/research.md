@@ -58,7 +58,7 @@ submesoscale coherent vortices that can be advected to the ocean interior, trapp
         loop
         muted
         playsinline
-        style="width: 100%; max-width: 800px; height: auto;">
+        style="width: 100%; max-width: 400px; height: auto;">
 
         <source src="/assets/videos/AAIW_core_mean_Ro_film_20180510_20180705.mp4" type="video/mp4">
 
