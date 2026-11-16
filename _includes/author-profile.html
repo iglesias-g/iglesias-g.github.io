@@ -27,9 +27,19 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">{{ author.location }}</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i>
+          <a href="https://www.google.com/maps/search/?api=1&query=Sao+Paulo+Brazil"
+             target="_blank" rel="noopener noreferrer">
+            São Paulo
+          </a>
+          |
+          <a href="https://www.google.com/maps/search/?api=1&query=Rio+de+Janeiro+Brazil"
+             target="_blank" rel="noopener noreferrer">
+            Rio de Janeiro
+          </a>
         </li>
       {% endif %}
+
 
       {% if author.links %}
         {% for link in author.links %}
