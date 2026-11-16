@@ -46,10 +46,10 @@ of flow--topography interactions in the destabilization process of a current tha
 shears against the continental slope on its pathway towards the Equator, the Intermediate Western
 Boundary Current (IWBC). We have concluded that the interaction between the IWBC and the continental
 slope injects anticyclonic vorticity within the bottom boundary layer over the whole extension of the IWBC,
-and the main type of instabilities that arise are indeed a result of current-slope shear. Especially within 
-a box-shaped canyon, instabilities seem to be more persistent and on some occasions give birth to 
-submesoscale coherent vortices that can be advected to the ocean interior, trapping properties of
-its formation site.
+and the main type of instabilities that arise are indeed a result of current-slope shear, mostly inertial instabilities.
+
+Especially within a box-shaped canyon, instabilities seem to be more persistent and on some occasions give birth to 
+submesoscale coherent vortices that can be advected to the ocean interior, trapping properties of its formation site.
 
 
 <div style="text-align: center;">
