@@ -62,5 +62,11 @@ regarding wave and wind parameters. My role was to compare different reanalysis 
 buoy data and discover which one was better for the region of interest.
 
 <div style="text-align: center;">
-    <img src="/assets/images/Imagem_Internship.JPEG" width="400">
+    <img src="/assets/images/Imagem_Internship.JPEG"
+         style="
+             width: 500px;
+             height: 300px;
+             object-fit: cover;
+             object-position: center;
+         ">
 </div>
